@@ -1,9 +1,3 @@
-<<<<<<< HEAD
 Team members: brodydavis and dailati1
 Favorite programming language: TBD
-Team motto: Commit often, push confidently.
-=======
-Team members: brodydavis and PARTNER_B
-Favorite programming language: TBD
 Team motto: Motto is the motto
->>>>>>> upstream/main
